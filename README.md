@@ -50,3 +50,7 @@ _Discussion (potential improvements)–_
 - Player Position Analysis: How player positions affect their performance metrics.
 - Team Strategy Recommendations: Strategizing player utilization and development.
 - Future Research Directions: Predictive modeling of player performance and comparison across seasons 1.
+
+_Sources Cited -_
+
+Chung, Bryan Weather. “NBA Player Stats Dataset for the 2022-2023.” Kaggle, 28 Sept. 2023, www.kaggle.com/datasets/bryanchungweather/nba-players-data-2022-2023. 
