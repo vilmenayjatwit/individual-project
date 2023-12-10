@@ -25,6 +25,11 @@ _Questions -_
 4. Which team has the most points?
 5. Are any of the top 25 scorers on the team with the highest PPG?
 
+**Example Graph _(Top 10 scorers in the NBA)_**
+
+<img width="654" alt="image" src="https://github.com/vilmenayjatwit/individual-project/assets/90573112/df98e32c-88e1-436c-9ad8-c399921ee8a7">
+
+
 _Methodology –_
 
 Data Import and Preprocessing: We imported the NBA player stats from the “2022-2023 NBA Player Stats - Regular.csv” file and preprocessed the data for analysis.
